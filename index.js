@@ -10,7 +10,11 @@ app.use(cors());
 
 app.get('/chefs', (req, res) =>{
     res.send(chefs)
-})  
+}) 
+
+app.get('/recipes', (req, res) =>{
+    res.send(recipes)
+})
 
 app.listen(port, () => {
     console.log('object')
