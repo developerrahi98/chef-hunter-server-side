@@ -1,0 +1,56 @@
+[
+{
+    "id": 1,
+    "name": "Md Sarowar Islam",
+    "yearsOfExperience": 7,
+    "likes": 90,
+    "numberOfSomething": 20,
+    "image": "https://www.escoffier.edu/wp-content/uploads/2021/02/Smiling-male-black-chef-with-white-coat-and-hat-scaled.jpg",
+    "food": "Bangladeshi"
+  },
+  {
+    "id": 2,
+    "name": "Bob Johnson",
+    "yearsOfExperience": 3,
+    "likes": 200,
+    "numberOfSomething": 5,
+    "image": "https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png",
+    "food": "Chinese"
+  },
+  {
+    "id": 3,
+    "name": "Cathy Lee",
+    "yearsOfExperience": 12,
+    "likes": 150,
+    "numberOfSomething": 8,
+    "image": "https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png",
+    "food": "Thai"
+  },
+  {
+    "id": 4,
+    "name": "Shema Das",
+    "yearsOfExperience": 9,
+    "likes": 120,
+    "numberOfSomething": 12,
+    "image": "https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png",
+    "food": "Indian"
+  },
+  {
+    "id": 5,
+    "name": "Emily Wu",
+    "yearsOfExperience": 5,
+    "likes": 80,
+    "numberOfSomething": 18,
+    "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+    "food": "French"
+  },
+  {
+    "id": 6,
+    "name": "Frank Zhang",
+    "yearsOfExperience": 2,
+    "likes": 50,
+    "numberOfSomething": 3,
+    "image": "https://www.escoffier.edu/wp-content/uploads/2021/02/Smiling-male-black-chef-with-white-coat-and-hat-scaled.jpg",
+    "food": "African"
+  }
+]
