@@ -16,6 +16,12 @@ app.get('/recipes', (req, res) =>{
     res.send(recipes)
 })
 
+app.get('/recipes/:id', (req, res) =>{
+    const id = parseInt(req.params.id);
+    const selectedRecipes = recipes.find(recipe => parseInt(recipe.id) === id);
+    res.send(selectedRecipes)
+})
+
 app.listen(port, () => {
     console.log('object')
 }) 
